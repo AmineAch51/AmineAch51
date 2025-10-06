@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/TU0sO3guo8QAAAAC/metal-slug-hostage.gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRhbGlkNTZoeHMxaWd3NmhiZGNnMmtvZmNtYmNpaHVjY292aXRwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" />
 </div>
