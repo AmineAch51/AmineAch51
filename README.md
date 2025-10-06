@@ -4,4 +4,7 @@
   </h1>
 </div>
 
-![Alt text](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+<div align="center">
+  ![Alt text](https://media1.tenor.com/m/TU0sO3guo8QAAAAC/metal-slug-hostage.gif)
+</div>
