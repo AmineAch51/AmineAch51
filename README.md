@@ -10,5 +10,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/Q7H7ehSZRYAAAAAd/the-slide-slide.gif" width="700"/>
+  <img src="https://media1.tenor.com/m/Q7H7ehSZRYAAAAAd/the-slide-slide.gif" width="750"/>
 </div>
